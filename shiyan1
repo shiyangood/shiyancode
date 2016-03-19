@@ -1,0 +1,1 @@
+proc sort data = a nodupkey;by lac ci;run;quit;
